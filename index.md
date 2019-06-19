@@ -1,6 +1,6 @@
 ## GitPunk
 
-The GitPunk Project is a collaborative writing experiment using GitHub to create a story about a dystopian sci-fi future.
+Project GitPunk is a collaborative writing experiment using GitHub to create a story about a dystopian sci-fi future.
   
      
       
